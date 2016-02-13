@@ -1,1 +1,2 @@
-# 1hg42
+# 1HGJ42 - "Train Track Planner"
+http://onehourgamejam.com/
